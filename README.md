@@ -3,9 +3,7 @@ Repositório para armazenar conteúdos dos meus projetos em Python!
 
 # Bruno Wiss 📲💻
 
-Sou um jovem dedicado e focado, com objetivos claros e uma paixão pela informática. Iniciei minha jornada em programação durante meu ensino profissionalizante, onde desenvolvi habilidades em Front-End e Back-End. Desde então, tenho buscado constantemente aprimorar meu conhecimento, realizando cursos em diversas linguagens de programação como JavaScript, Python, HTML, CSS, Java e SQL (CRUD), e obtendo certificações em todas elas. 
-
-Ao longo da minha carreira, tive a oportunidade de aplicar essas habilidades em projetos, como: "Gestão de Barberia", feito em Java (Projeto realizado na Universidade Anhembi Morumbi). Estou em busca de uma oportunidade que me permita continuar crescendo profissionalmente na área de informática, contribuindo com meu conhecimento e buscando novos desafios que agreguem valor à equipe e à empresa.
+Sou um jovem dedicado e focado, com objetivos claros e uma paixão pela informática. Iniciei minha jornada em programação durante meu ensino profissionalizante, onde desenvolvi habilidades em Front-End e Back-End. Desde então, tenho buscado constantemente aprimorar meu conhecimento, realizando cursos em diversas linguagens de programação como Python, Java e SQL em MySQL, e obtendo certificações em todas elas. 
 
 ## Conecte-se comigo!
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/wissbruno/)
